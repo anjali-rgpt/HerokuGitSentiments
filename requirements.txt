@@ -1,0 +1,9 @@
+sklearn
+fastapi
+pandas
+numpy
+pydantic
+tensorflow==2.0.0
+uvicorn
+h5py==2.10.0
+python-multipart
